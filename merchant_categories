@@ -1,0 +1,13 @@
+{
+  "starbucks": "Food & Dining",
+  "uber": "Transportation",
+  "whole foods": "Food & Dining",
+  "amazon": "Shopping",
+  "target": "Shopping",
+  "netflix": "Entertainment",
+  "spotify": "Entertainment",
+  "mcdonalds": "Food & Dining",
+  "venmo": "Transfer",
+  "zelle": "Transfer",
+  "paypal": "Transfer"
+}
